@@ -1,3 +1,3 @@
 # CPA
 
-Just use the callback and promise function
+Just use the callback function  and promise 
